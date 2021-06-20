@@ -1,4 +1,4 @@
-# Run Buddy Inc.s
+# Run Buddy change
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,4 +13,4 @@ https://georgedmendoza.github.io/run-buddy
 ## Contribution
 Made with ❤️ by George Mendoza
 
-### ©️2019 Run Buddy, Inc s
+### ©️2019 Run Buddy, Inc

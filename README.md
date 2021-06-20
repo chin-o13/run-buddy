@@ -13,4 +13,4 @@ https://georgedmendoza.github.io/run-buddy
 ## Contribution
 Made with ❤️ by George Mendoza
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc s
